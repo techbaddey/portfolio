@@ -3,8 +3,8 @@ function sendEmail(){
   Email.send({
     Host : "smtp.elasticemail.com",
     Username : "pelumiolaiya01@gmail.com",
-    Password : "50F842E32430F2246048CD85B2EA106ABDA7",
-    To : 'teqbaddie@gmail.com',
+    Password : "A7F8B5EB9DA93FCAD3E7AFEDD75386CE7775",
+    To : 'pelumiolaiya1403@gmail.com',
     From :  "pelumiolaiya01@gmail.com",
     Subject : "Message From My Portfolio Website",
     Body : "Name: " + document.getElementById("name").value
