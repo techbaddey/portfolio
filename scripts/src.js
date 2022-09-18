@@ -5,7 +5,7 @@ function sendEmail(){
     Username : "pelumiteejay@elasticemail.com",
     Password : "A38D49C1D3F318BBBE2443DDE21CC188FB47",
     To : 'pelumiolaiya1403@gmail.com',
-    From :  "pelumiteejay@elasticemail.com",
+    From :  "pelumiolaiya1403@gmail.com",
     Subject : "Message From My Portfolio Website",
     Body : "Name: " + document.getElementById("name").value
                + " <br> Email: " + document.getElementById("email").value
