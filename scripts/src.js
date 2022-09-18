@@ -4,7 +4,7 @@ function sendEmail(){
     Host : "smtp.elasticemail.com",
     Username : "pelumijuwonteejay@gmail.com",
     Password : "E09108C03DAE7C34BCA66CCE63E7617720B0",
-    To : 'oyinkansolashoroye@gmail.com',
+    To : 'teqbaddie@gmail.com',
     From :  "pelumijuwonteejay@gmail.com",
     Subject : "Message From My Portfolio Website",
     Body : "Name: " + document.getElementById("name").value
