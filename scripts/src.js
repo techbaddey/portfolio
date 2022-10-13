@@ -16,10 +16,3 @@ function sendEmail(){
 );
     }
 
-
-
-    // Host : "smtp.elasticemail.com",
-    // Username : "pelumijuwonteejay@gmail.com",
-    // Password : "7269E31C54FEA1D45C4D12CDC5EAEDA7BA34",
-    // To : 'teqbaddie@gmail.com',
-    // From :  "pelumijuwonteejay@gmail.com",
